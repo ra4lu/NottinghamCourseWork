@@ -1,2 +1,2 @@
 # NottinghamCourseWork
-NottinghamCourseWork
+some homeworks in Nottingham
